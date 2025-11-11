@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on @domanaru
+- 🔭 I’m currently working on [**@domanaru**](instagram/@domanaru)
 - 🌱 I’m currently learning [**React**](https://react.dev/)
